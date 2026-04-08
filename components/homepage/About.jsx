@@ -3,6 +3,13 @@
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Grid, Navigation, Pagination } from "swiper/modules";
+import category1 from "@/public/homepage/Wall DecorWall Decor.webp"
+import category2 from "@/public/homepage/Pendent LightPendent Light.webp"
+import category3 from "@/public/homepage/Table Lamp.webp"
+import category4 from "@/public/homepage/ChandelierChandelier.webp"
+import category5 from "@/public/homepage/Floor Light.webp"
+import category6 from "@/public/homepage/Home Decor.webp"
+
 
 import "swiper/css";
 import "swiper/css/grid";
@@ -14,32 +21,32 @@ const categories = [
   {
     title: "Wall Decor",
     slug: "wall-decor",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163877/products/z0tf1qgjly5i85rrafsr.jpg",
+    img:category1,
   },
   {
     title: "Pendent Light",
     slug: "pendent-light",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163107/products/puwlh4vn2hhnfhtcs2sb.jpg",
+    img:category2,
   },
   {
     title: "Table Lamp",
     slug: "table-lamp",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773162945/products/o2mhjbzetghoro8kg67l.jpg",
+    img:category3,
   },
   {
     title: "Chandelier",
     slug: "chandelier",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163613/products/s0w6bqgg2pdptlsu9ql6.png",
+    img: category4,
   },
   {
     title: "Floor Light",
     slug: "floor-light",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1771137487/products/awknls8ljcdwopq2fyhf.jpg",
+    img: category5,
   },
   {
     title: "Home Decor",
     slug: "home-decor",
-    img: "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163676/products/g5qh0wpb6o003vaidwo9.png",
+    img: category6,
   },
 ];
 
