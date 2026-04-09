@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "siddhant-dhariwal-designs",
-  description: "siddhant-dhariwal-designs",
+  title: "Siddhant Dhariwal Designs",
+  description: "Siddhant Dhariwal Designs",
 };
 
 export default function RootLayout({ children }) {

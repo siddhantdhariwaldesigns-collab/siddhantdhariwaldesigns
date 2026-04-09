@@ -32,11 +32,11 @@ globally.
                 alt="Showroom display"
                 className="w-full h-full object-cover"
               />
-              <div className="absolute bottom-6 right-6">
+              {/* <div className="absolute bottom-6 right-6">
                 <p className="text-white text-lg font-light tracking-wide opacity-90 drop-shadow-md">
                   here's what we do
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
