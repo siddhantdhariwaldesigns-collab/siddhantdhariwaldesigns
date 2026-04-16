@@ -7,14 +7,14 @@ import { X } from "lucide-react";
 
 import hero1 from "@/public/homepage/hero1.jpeg";
 import hero2 from "@/public/homepage/hero2.jpeg";
-import hero3 from "@/public/homepage/hero3.jpeg";
+import category2 from "@/public/homepage/Pendent LightPendent Light.webp"
 
 const images = [
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773244283/4E7B228E-4C08-4734-842A-FF0064DB1FED_oicsqh.jpg",
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773939888/Copy_of_IMG_1133_th6vjo.jpg",
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163750/products/zfoxigvpzvh6heqzx2lb.jpg",
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163676/products/g5qh0wpb6o003vaidwo9.png",
-"https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163107/products/puwlh4vn2hhnfhtcs2sb.jpg",
+category2,
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773244182/DSC09184_cjah1s.jpg",
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773975483/hero3_vn8dxi.jpg",
 "https://res.cloudinary.com/dwdmczhsn/image/upload/v1773163312/products/v81ndwpsclplov4zsgom.png",
